@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(42, 21, 63);
+    color: rgb(142, 111, 170);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    background-color: rgb(42, 21, 63);
+    color: #00FF00;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.div1{
+    font-size: 25px;
+    color: #00FF00;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.div2{
+    font-size: 25px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 18px;
+    color: #00FF00;
+    position: absolute;
+}
+.div3{
+    font-size: 20px;
+    color: #00FA9A;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.div4{
+    font-size: 20px;
+    color: #00FF00;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.exce{
+    font-size: 20px;
+    color: #00FF00;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);;
+}
+.foradeestoque{
+    font-size: 20px;
+    color: #ff000d;
+    position: absolute;
+    padding: 10px;
+    top: 10%;
+
+}
+.lis{
+    font-size: 20px;
+    color: #00FF7F;
+    position: absolute;
+    height: 30%;
+    width: 100%;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+}
+.menu{
+    font-size: 20px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.menupesquisa{
+    font-size: 20px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.encontrar{
+    font-size: 20px;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.resultbusca{
+    font-size: 20px;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #00FF00;   
+}
+.b1{
+    height: 43px;
+    font-size: 22px;
+    background-color: #154d15;
+    border-width:  2px;
+    border-radius: 10px;
+    color: #ADFF2F;
+    font-weight: bold;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
